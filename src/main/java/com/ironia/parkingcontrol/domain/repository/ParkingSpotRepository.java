@@ -1,6 +1,6 @@
-package com.ironia.parkingcontrol.api.repository;
+package com.ironia.parkingcontrol.domain.repository;
 
-import com.ironia.parkingcontrol.api.model.ParkingSpotModel;
+import com.ironia.parkingcontrol.domain.model.ParkingSpotModel;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

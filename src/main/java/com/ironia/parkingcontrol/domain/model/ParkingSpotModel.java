@@ -1,4 +1,4 @@
-package com.ironia.parkingcontrol.api.model;
+package com.ironia.parkingcontrol.domain.model;
 
 import lombok.Data;
 import lombok.Getter;
